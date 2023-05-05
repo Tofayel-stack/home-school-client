@@ -28,3 +28,27 @@ viii.	Our feature / courses are .
 8)	Fitness training  ETC
 
 So don’t west your time go and take those opportunity fast .
+
+
+
+
+Technology USED :
+
+HTML ,
+CSS 
+Animate CSS ,
+Tailwind ,
+Daisy UI ,
+Firebase ,
+React js, 
+React awesome Lider,
+React dom ,
+React Icons, 
+React loader spinner ,
+React PDF ,]
+React Router ,
+React toastify,
+
+
+
+
