@@ -1,0 +1,8 @@
+.custom{
+    flex: 0 0 auto;
+    position: sticky;
+    top: 0px;
+}
+.customBackground{
+    background: radial-gradient(#852d2d, black);
+}

@@ -1,0 +1,12 @@
+.customStyleForPhoto{
+    width: 0;
+}
+
+.photoHover:hover{
+    transform: scale(1.5);
+    box-shadow: 0px -1px 20px 8px #083b08;
+}
+.photoHover{
+    
+    transition: .3s;
+}
