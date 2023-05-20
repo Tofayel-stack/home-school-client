@@ -50,5 +50,9 @@ React Router ,
 React toastify,
 
 
+## git server link : https://github.com/Tofayel-stack/home-school-virtual-server
+## firebase live link : https://home-school-5e84a.web.app/
+## server on vercle link : https://vercel.com/tofayel-stack/home-school-server
 
+# live link : https://home-school-5e84a.web.app/
 
