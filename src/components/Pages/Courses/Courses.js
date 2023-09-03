@@ -3,15 +3,16 @@ import { useLoaderData } from 'react-router';
 import CoursesShowingCard from './CoursesShowingCard';
 
 const Courses = () => {
+    
     const coursesData = useLoaderData()
-    // console.log(coursesData);
+
     return (
         <div className='flex flex-wrap'>
             {
-                coursesData.map(scourse => 
+                coursesData.map(course => 
                     <CoursesShowingCard
-                    key={scourse.id}
-                     course={scourse}
+                    key={course.id}
+                     course={course}
                      >
                      </CoursesShowingCard>
                 )
